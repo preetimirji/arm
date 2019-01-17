@@ -1,2 +1,2 @@
 # arm
-Tested ARM templates
+Tested ARM templates branches
